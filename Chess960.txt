@@ -1,0 +1,24 @@
+		   Board class
+
+		   Piece class
+			|
+Pawn	 Rook	 Knight	 Bishop	 King	 Queen
+
+
+Board 2D array integers
+Color Board - 0 for white, 1 for black
+Game Board - 	0 = Empty
+		1 = Pawn
+		2 = Rook
+		3 = Knight
+		4 = Bishop
+		5 = King
+		6 = Queen
+
+Chess960.py
+ - main
+
+Display.py
+ - GUI
+
+(AI.py)
