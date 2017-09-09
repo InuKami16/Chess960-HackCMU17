@@ -1,0 +1,2 @@
+# Chess960-HackCMU17
+HackCMU 2017
